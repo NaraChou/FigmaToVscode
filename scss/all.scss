@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;700&display=swap');
+@import "bootstrap/bootstrap";
+
+@import "components/header";
+@import "components/utilities";
+
+html,body{
+    font-family: 'Noto Sans TC', sans-serif;
+}
